@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://provideroutbound-batuu.vercel.app/</loc>
+    <lastmod>2026-02-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://provideroutbound-batuu.vercel.app/og-image.jpg</image:loc>
+      <image:title>Gemilang Katun Outbound - Provider Outbound Batu</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://provideroutbound-batuu.vercel.app/blog.html</loc>
+    <lastmod>2026-02-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://provideroutbound-batuu.vercel.app/rekomendasi-provider-outbound-batu-malang.html</loc>
+    <lastmod>2026-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://provideroutbound-batuu.vercel.app/blog-1.jpg</image:loc>
+      <image:title>Rekomendasi Provider Outbound di Batu Malang yang Terpercaya</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://provideroutbound-batuu.vercel.app/tips-memilih-paket-outbound-batu-perusahaan.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://provideroutbound-batuu.vercel.app/blog-2.jpg</image:loc>
+      <image:title>Tips Memilih Paket Outbound Batu untuk Perusahaan</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://provideroutbound-batuu.vercel.app/manfaat-team-building-outbound-karyawan-batu.html</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://provideroutbound-batuu.vercel.app/blog-3.jpg</image:loc>
+      <image:title>Manfaat Team Building Outbound untuk Karyawan di Batu</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://provideroutbound-batuu.vercel.app/lokasi-outbound-terbaik-kota-batu-malang.html</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://provideroutbound-batuu.vercel.app/blog-4.jpg</image:loc>
+      <image:title>Lokasi Outbound Terbaik di Kota Batu Malang</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://provideroutbound-batuu.vercel.app/panduan-gathering-perusahaan-batu-malang.html</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://provideroutbound-batuu.vercel.app/blog-5.jpg</image:loc>
+      <image:title>Panduan Lengkap Gathering Perusahaan di Batu Malang</image:title>
+    </image:image>
+  </url>
+
+</urlset>

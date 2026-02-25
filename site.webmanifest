@@ -1,0 +1,26 @@
+{
+  "name": "Gemilang Katun Outbound",
+  "short_name": "Gemilang Katun",
+  "description": "Provider outbound Batu terpercaya - paket outbound, team building, dan gathering di Batu Malang",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf8",
+  "theme_color": "#1a5c38",
+  "icons": [
+    {
+      "src": "favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
